@@ -8,8 +8,6 @@ Website: TBA
 
 ## Installation
 
-npm i
-
 ## Usage
 
 ## Credits

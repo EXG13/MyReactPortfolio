@@ -45,11 +45,16 @@
 
 .fa-twitter {
   color: lightblue;
-  margin: 10px;
 }
 
 .fa-github {
   color: white;
+}
+
+.fa-linkedin {
+  color: rgb(17, 143, 247);
+  font-size: 42px;
+  margin: 0px 25px;
 }
 
 .fa-twitter:hover {
@@ -62,6 +67,11 @@
   transform: var(--transform);
 }
 
+.fa-linkedin:hover {
+  transition: var(--transition);
+  transform: var(--transform);
+}
+
 @media screen and (max-width: 768px) {
   .custom-hero-section {
     height: 91.8vh;
@@ -70,66 +80,42 @@
   .navbar-collapse {
     margin-left: 40%;
   }
+}
 
+/* ///////////////////////////////////////////// About ///////////////////////////////////////////// */
+
+.about {
+  margin-top: 100px;
+}
+
+.contact {
+  margin-top: 120px;
+}
+
+@media screen and (max-width: 768px) {
+  .about {
+    margin-top: -100px;
+  }
 }
 
 /*/ ///////////////////////////////////////////// Projects ////////////////////////////////////////*/
 
-/* Card 1 */
-
-.card1-img {
-height: 222px;
-object-fit: cover;
-}
-
-#startCardTitle {
-  height: 58px;
-}
-
-.card-text1 {
-  margin-top: -33px;
-}
-
-/* Card 2 */
-
-.projectCard2 {
-
-  
-}
-
-.card2-img {
-  height: 250px;
-
-  
-}
-
-#middleCardTitle {
-  margin-top: -22px;
-}
-
-.card-text2 {
-}
-
-
-/* Card 3 */
-
-.card3-img {
-  height: 195px;
-}
-
-#endCardTitle {
-  margin-top: -10px;
-  height: 40px;
-}
-
-.card-text3 {
-
+@media screen and (max-width: 768px) {
+  .projects {
+    margin-top: -20px;
+  }
 }
 
 /*///////////////////////////////////// CONTACT SECTION /////////////////////////////////////*/
 
 #contactSection {
   margin-left: 33.3%;
+}
+
+.textarea {
+  width: 100%;
+  height: 20vh;
+  font-size: 20px;
 }
 
 @media screen and (max-width: 768px) {

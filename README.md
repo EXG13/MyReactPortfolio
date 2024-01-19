@@ -8,7 +8,11 @@ Website: [tjl-react-portfolio.netlify.app]("tjl-react-portfolio.netlify.app")
 
 ## Installation
 
+N/A
+
 ## Usage
+
+N/A
 
 ## Credits
 

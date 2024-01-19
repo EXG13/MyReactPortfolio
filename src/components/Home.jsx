@@ -16,6 +16,11 @@ function Home() {
                 <a href="https://twitter.com/FiatBurnerr" target="_blank">
                   <i id="tw" className="fa fa-twitter"></i>
                 </a>
+                <a
+                  href="https://www.linkedin.com/in/tomerjlind/"
+                  target="_blank">
+                  <i id="li" className="fa fa-linkedin"></i>
+                </a>
                 <a href="https://github.com/EXG13" target="_blank">
                   <i id="gh" className="fa fa-github"></i>
                 </a>

@@ -24,7 +24,11 @@ function About() {
             </p>
           </div>
           <div className="col-md">
-            <img src={aboutIMG} className="img-fluid w-50 ms-4" />
+            <img
+              src={aboutIMG}
+              id="about-img"
+              className="img-fluid w-50 ms-4"
+            />
           </div>
         </div>
       </div>

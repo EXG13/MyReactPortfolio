@@ -24,7 +24,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <a href="#portfolio" className="nav-link">
-                Portfolio
+                Projects
               </a>
             </li>
             <li className="nav-item">

@@ -3,8 +3,8 @@ import aboutIMG from "../assets/think.jpg";
 
 function About() {
   return (
-    <section id="about" className="p-5 ms-5">
-      <div className="container me-5">
+    <section className="p-5 ms-5 mt-5">
+      <div className="container me-5 about">
         <div className="row align-items-center justify-content-between">
           <div className="col-md p-5">
             <h2 id="about" className="text-center">

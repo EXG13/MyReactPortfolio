@@ -22,10 +22,10 @@ function Projects() {
                 </h4>
                 <p class="card-text1">
                   As a web developer, I create full scale web applications that
-                  can retain and grow your userbase.
+                  can help your product stand out.
                 </p>
                 <a
-                  href="https://github.com/EXG13/CelestialChronicles"
+                  href="https://celestial-chronicles.netlify.app/"
                   target="_blank"
                   class="btn btn-primary btn1">
                   Read More
@@ -50,7 +50,7 @@ function Projects() {
                   design.
                 </p>
                 <a
-                  href="https://github.com/EXG13/PortfolioProject-Bootstrap"
+                  href="https://tjl-bootstrap.netlify.app/"
                   target="_blank"
                   class="btn btn-primary">
                   Read More
@@ -75,7 +75,7 @@ function Projects() {
                   digital footprint in seconds.
                 </p>
                 <a
-                  href="https://tjl-portfolio-website.netlify.app/"
+                  href="https://cerulean-gaufre-fd953a.netlify.app/"
                   target="_blank"
                   class="btn btn-primary">
                   Read More

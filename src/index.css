@@ -24,7 +24,6 @@
   font-size: 25px;
 }
 
-
 /*/ //////////////////////////////////////////// Hero /////////////////////////////////////////////*/
 
 .custom-hero-section {
@@ -32,7 +31,7 @@
 }
 
 .custom-hero-info {
-  margin-top: 120px;
+  margin-top: 90px;
   text-align: center;
 }
 
@@ -64,29 +63,66 @@
 }
 
 @media screen and (max-width: 768px) {
-.custom-hero-section {
-  height: 91.8vh;
+  .custom-hero-section {
+    height: 91.8vh;
+  }
+
+  .nav-item {
+    font-size: 22px;
+  }
 }
 
-.nav-item {
-  font-size: 22px;
-}
+/*/ ///////////////////////////////////////////// Projects ////////////////////////////////////////*/
 
-}
+/* Card 1 */
 
-/*/ ///////////////////////////////////////////// Portfolio ////////////////////////////////////////*/
+.card1-img {
+height: 222px;
+object-fit: cover;
+}
 
 #startCardTitle {
-  height: 68px;
+  height: 58px;
+}
+
+.card-text1 {
+  margin-top: -33px;
+}
+
+/* Card 2 */
+
+.projectCard2 {
+
+  
+}
+
+.card2-img {
+  height: 250px;
+
+  
 }
 
 #middleCardTitle {
   margin-top: -22px;
 }
 
+.card-text2 {
+}
+
+
+/* Card 3 */
+
+.card3-img {
+  height: 195px;
+}
+
 #endCardTitle {
   margin-top: -10px;
   height: 40px;
+}
+
+.card-text3 {
+
 }
 
 /*///////////////////////////////////// CONTACT SECTION /////////////////////////////////////*/
@@ -103,181 +139,7 @@
 
 /*///////////////////////////////////// Footer /////////////////////////////////////*/
 
-#tw, #gh {
-font-size: 42px;
+#tw,
+#gh {
+  font-size: 42px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
-
-.nav {
-  background-color: #3a76bf;
-  color: white;
-  display: flex;
-  justify-content: space-between;
-  align-items: stretch;
-  gap: 2rem;
-  padding: 0 1rem;
-  font-size: 1.4rem;
-}
-
-.site-title {
-  font-size: 3.69rem;
-}
-
-.nav ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  display: flex;
-  gap: 1.5rem;
-}
-
-.nav a {
-  color: inherit;
-  text-decoration: none;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  padding: .55rem;
-}
-
-.navbar-toggler {
-
-}
-
-
-.HeroIMG {
-  width: 369px;
-  margin-left: 100px;
-} */
-
-
-
-/* .nav li:hover {
-  
-} */
-
-
-
-
-
-
-
-
-
-
-
-
-/* downloaed with VITE */
-
-/* :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
-
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-}
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-} */

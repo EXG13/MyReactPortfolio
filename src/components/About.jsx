@@ -1,5 +1,5 @@
 import React from "react";
-import aboutIMG from "../assets/think.jpg";
+import aboutIMG from "/public/assets/think.jpg";
 
 function About() {
   return (

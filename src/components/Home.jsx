@@ -9,7 +9,7 @@ function Home() {
             <div className="hero-header">
               <h1> Hi, I'm Tom</h1>
               <p className="lead my-4"> FullStack Developer</p>
-              <a href="#contact">
+              <a href="/contact">
                 <button className="btn btn-primary btn-lg">HIRE ME</button>
               </a>
               <div className="hero-icons mt-5">

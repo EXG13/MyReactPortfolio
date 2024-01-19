@@ -2,21 +2,21 @@
   {
     "title": "CelestialChronicles",
     "description": "As a web developer, I create full scale web applications that can help your product stand out",
-    "image": "src/assets/CelestialChronicles.png",
+    "image": "/src/assets/CelestialChronicles.png",
     "link": "https://celestial-chronicles.netlify.app/"
   },
 
   {
     "title": "ResponsiveDesign",
     "description": "I harness Bootstrap, JavaScript, and other frameworks in web development, ensuring enhanced functionality and responsive design.",
-    "image": "src/assets/ResponsiveDesign.png",
+    "image": "/src/assets/ResponsiveDesign.png",
     "link": "https://tjl-bootstrap.netlify.app/"
   },
 
   {
     "title": "PortfolioWebsite",
     "description": "Designing personal portfolio websites to elegantly display skills, experiences & personality, leaving a remarkable digital footprint in seconds.",
-    "image": "src/assets/PortfolioWebsite.png",
+    "image": "/src/assets/PortfolioWebsite.png",
     "link": "https://cerulean-gaufre-fd953a.netlify.app/"
   }
 ]

@@ -1,7 +1,4 @@
 import React from "react";
-import CelestialChronicles from "../assets/CelestialChronicles.png";
-import ResponsiveDesign from "../assets/ResponsiveDesign.png";
-import PortfolioWebsite from "../assets/PortfolioWebsite.png";
 import Pikachu from "../projects.json";
 
 function Projects() {

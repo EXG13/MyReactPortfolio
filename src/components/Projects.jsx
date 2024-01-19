@@ -14,7 +14,7 @@ function Projects() {
                   <img
                     src={props.image}
                     className="w-100 card1-img"
-                    alt="This is an image of my first project, which was a refactoring work for a marketing company called Horiseon - The image is showing their landing page"
+                    alt={props.alt}
                   />
                   <div className="card-body text-center">
                     <h4 id="startCardTitle" className="card-title mb-3">

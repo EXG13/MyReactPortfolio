@@ -10,10 +10,10 @@ function Projects() {
           {Pikachu.map((props) => {
             return (
               <div className="col-md">
-                <div className="card bg-dark text-light projectCard1">
+                <div className="card bg-dark text-light">
                   <img
                     src={props.image}
-                    className="w-100 card1-img"
+                    className="w-100"
                     alt={props.alt}
                   />
                   <div className="card-body text-center">
@@ -24,7 +24,7 @@ function Projects() {
                     <a
                       href={props.link}
                       target="_blank"
-                      className="btn btn-primary btn1">
+                      className="btn btn-primary">
                       Read More
                     </a>
                   </div>

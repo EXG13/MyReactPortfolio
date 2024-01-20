@@ -6,7 +6,7 @@ Thank you for visiting my portfolio! This project was created using React, a pow
 
 Website: [https://tjl-react-portfolio.netlify.app/](https://tjl-react-portfolio.netlify.app/)
 
-![Alt text](./src/assets/ResponsiveDesign.png)
+![Alt text](public/images/ResponsiveDesign.png)
 
 ## Installation
 
